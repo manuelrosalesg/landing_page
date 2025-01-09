@@ -1,1 +1,1 @@
-# landing_page
+my first landing page from 0
